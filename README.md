@@ -1,5 +1,3 @@
 # github
 
-
-[!](vaibhavr24.github.io/github/)]
-
+[My Website](https://vaibhavr24.github.io/github/)
